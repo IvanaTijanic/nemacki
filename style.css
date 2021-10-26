@@ -192,9 +192,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 769px) {
-    body {
-        padding: 0 15px;
-    }
+
     .section-hero.desctp {
         display: none;
     }
@@ -244,7 +242,7 @@ a:hover {
     }
     .price-wrapper {
         flex-direction: column-reverse;
-        gap: 15px;
+      
         align-items: center;
     }
 }

@@ -7,5 +7,7 @@
   ],
   "theme_color": "#fafafa",
   "background_color": "#fafafa",
-  "display": "standalone"
+  "display": "standalone",
+  "start_url": "/",
+  "description": "Priprema za ispit Gete,Telc,ÖSD,FSP"
 }
