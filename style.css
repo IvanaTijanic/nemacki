@@ -236,6 +236,9 @@ h1.title {
     .subtitle {
         font-size: 1.2rem;
     }
+    .wrapper-item .subtitle {
+        line-height: normal;
+    }
     .explanation {
         padding: 1.5rem 1rem;
     }
