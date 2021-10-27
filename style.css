@@ -98,6 +98,10 @@ h1.title {
     background-color: var(--yellow);
     border-color: var(--yellow);
 }
+.contact:first-child{
+    border: none;
+    background-color: transparent;
+}
 
 .down-img {
     position: absolute;
