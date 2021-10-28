@@ -161,6 +161,7 @@ h1.title {
     padding: 5rem 8rem;
     text-align: center;
     background-color: var(--white);
+    overflow: hidden;
 }
 
 .price .title {
@@ -273,5 +274,15 @@ h1.title {
     .price-wrapper {
         flex-direction: column-reverse;
         align-items: center;
+    }
+}
+@media only screen and (max-width: 420px) {
+    .explanation{
+        padding-top: 11rem;
+    }
+}
+@media only screen and (max-width: 320px) {
+    .explanation{
+        padding-top: 21rem;
     }
 }
