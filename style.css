@@ -276,8 +276,7 @@ h1.title {
         align-items: center;
     }
 }
-
-@media only screen and (max-width: 575px) {
+@media only screen and (max-width: 360px) {
     .section-hero.mob {
         padding-bottom: 5rem;
     }
